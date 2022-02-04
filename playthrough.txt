@@ -14,3 +14,12 @@ Check elevator
 unlock elevator
 Cut the ropes
 Stay
+In
+Inside
+Out
+Outside
+East
+West
+Up
+Down
+
